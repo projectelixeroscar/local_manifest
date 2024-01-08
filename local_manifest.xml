@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+ <remote name="ImSurajxD" fetch="https://gitlab.com/ImSurajxD" />
+ 
+ <!-- Trees -->
+ <project path="device/oneplus/oscar" name="projectelixeroscar/device_oneplus_oscar.git" remote="github" revision="fourteen" />
+ <project path="device/oneplus/sm6375-common" name="projectelixeroscar/device_oneplus_sm6375-common.git" remote="github" revision="fourteen" />
+ <project path="kernel/oneplus/sm6375" name="projectelixeroscar/android_kernel_oneplus_sm6375.git" remote="github" revision="holi-12" />
+ <project path="vendor/oneplus/oscar" name="projectelixeroscar/vendor_oneplus_oscar.git" remote="github" revision="fourteen" />
+ <project path="vendor/oneplus/sm6375-common" name="projectelixeroscar/vendor_oneplus_sm6375-common.git" remote="github" revision="fourteen" />
+ <project path="hardware/oplus" name="projectelixeroscar/hardware_oplus.git" remote="github" revision="fourteen-holi" />
+ <!--Clang -->
+ <project path="prebuilts/clang/host/linux-x86/clang-r450784d" name="clang-r450784d" remote="ImSurajxD" revision="master" clone-depth="1" />
+</manifest>
