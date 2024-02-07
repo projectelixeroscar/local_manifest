@@ -10,7 +10,7 @@
  <project path="vendor/oneplus/sm6375-common" name="projectelixeroscar/vendor_oneplus_sm6375-common.git" remote="github" revision="fourteen" />
  <project path="hardware/oplus" name="projectelixeroscar/hardware_oplus.git" remote="github" revision="fourteen-holi" />
  <!-- Oplus Cam tree -->
- <project path="vendor/oplus/camera" name="PixelOS-Devices/proprietary_vendor_oplus_camera.git" remote="gitlab" revision ="14.0" />
+ <project path="vendor/oplus/camera" name="romdump/proprietary_vendor_oplus_camera.git" remote="gitlab" revision ="lineage-21" />
  <!--Clang -->
- <!--project path="prebuilts/clang/host/linux-x86/clang-r450784d" name="clang-r450784d" remote="ImSurajxD" revision="master" clone-depth="1" / -->
+ <project path="prebuilts/clang/host/linux-x86/clang-r450784d" name="clang-r450784d" remote="ImSurajxD" revision="master" clone-depth="1" />
 </manifest>
