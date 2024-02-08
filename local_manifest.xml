@@ -12,5 +12,5 @@
  <!-- Oplus Cam tree -->
  <project path="vendor/oplus/camera" name="romdump/proprietary_vendor_oplus_camera.git" remote="gitlab" revision ="lineage-21" />
  <!--Clang -->
- <project path="prebuilts/clang/host/linux-x86/clang-r450784d" name="clang-r450784d" remote="ImSurajxD" revision="master" clone-depth="1" />
+ <!--<project path="prebuilts/clang/host/linux-x86/clang-r450784d" name="clang-r450784d" remote="ImSurajxD" revision="master" clone-depth="1" />-->
 </manifest>
